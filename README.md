@@ -1,4 +1,4 @@
-Overview
+Overview:
 This project is set up for Ethereum blockchain development using Hardhat, a popular development environment for compiling, deploying, testing, and debugging Ethereum software. The configuration files included in this project are tailored for different purposes and environments.
 
 Files and Their Purposes:
@@ -17,20 +17,20 @@ Defines the project's dependencies and other metadata. This project depends on H
 .gitignore:
 
 Specifies intentionally untracked files to ignore, like node_modules, .env, and various Hardhat-generated files (cache, artifacts, etc.).
-Prerequisites
+Prerequisites:
 Node.js and npm (Node Package Manager).
 A basic understanding of Ethereum and Solidity.
 Familiarity with Hardhat for Ethereum development.
-Installation
+Installation:
 To set up the project:
 
 Clone the repository.
 Run npm install to install the dependencies.
-Usage
+Usage:
 Use npx hardhat to run Hardhat tasks.
 Modify georli_config.txt to connect to different Ethereum networks or customize the Hardhat environment.
 package.json and package-lock.json should be updated as dependencies change or are added.
-Versioning
+Versioning:
 Ensure to keep the Solidity version and Hardhat dependencies updated as per your project requirements.
 
 Try running some of the following tasks:
