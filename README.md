@@ -1,3 +1,5 @@
+Disclaimer: This project may rely on minimal code but is mostly run and is functional in the hardhat environment that you set up using your MetaMask account and testnet of choice.
+
 Overview:
 This project is set up for Ethereum blockchain development using Hardhat, a popular development environment for compiling, deploying, testing, and debugging Ethereum software. The configuration files included in this project are tailored for different purposes and environments.
 
